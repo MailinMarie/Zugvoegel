@@ -1,7 +1,38 @@
 Fragen zur Umfrage :
 
--
--
--
--
--
+- In welchem Altersbereich liegen sie ?
+ > 18 - 25 ,
+   26 - 35, 
+   36 - 50,
+   Ü50
+
+- Wie oft benutzen Sie die DB App ?
+ > 1-2 mal pro Woche, 
+   3-4 mal pro Woche,
+   Täglich, Ich benutze die App nicht
+
+- Werden sie durch die App ausreichend informiert ?
+ > sehr aktuell ich kann meine Route direkt folgen ,
+   ausreichend aber könnte schneller sein, 
+   schlecht da die Informationen viel zu spät kommen, 
+
+- Wie zufrieden sind sie mit kurzfristigen Änderungen wie z.B. bei Gleiswechsel ?
+ > Ich werde rechtzeitig informiert,
+   Ich schaffe es nur sehr knapp das Gleis zu wechseln, 
+   Ich bekomme die Änderungen zu Spät mit und kann das gleis nicht wechseln, 
+   Ich bekomme gar keine Informationen zum Gleiswechsel
+ 
+- Wie genau bewerten sie die Zeitangaben in der App (wann z.B. die Züge am Bahnsteig eintreffen   
+  sollen) ?
+> sehr genau > ich kann mich auf die Anzeige Zeiten verlassen
+  Befriedigend > mal passen de Zeiten und mal nicht
+  Schlecht > Die Zeiten passen nie zu den betreffenden Ankunftszeiten der Züge
+  
+- Wie zufrieden sind sie mit dem Design zu dem Bedienen der App?
+> Sie ist sehr verständlich > ich finde alles
+  Befriedigend > Die Hauptaktivitäten finde ich > manchmal habe ich Probleme etwas zu finden
+  Schlecht > Ich brauche immer sehr lange, um meine Zugverbindung herauszufinden
+  Gar nicht > Ich bekomme nichts mit der App hin
+
+
+
