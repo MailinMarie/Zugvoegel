@@ -9,7 +9,8 @@ Fragen zur Umfrage :
 - Wie oft benutzen Sie die DB App ?
  > 1-2 mal pro Woche, 
    3-4 mal pro Woche,
-   Täglich, Ich benutze die App nicht
+   Täglich, 
+   Ich benutze die App nicht
 
 - Werden sie durch die App ausreichend informiert ?
  > sehr aktuell ich kann meine Route direkt folgen ,
@@ -34,5 +35,5 @@ Fragen zur Umfrage :
   Schlecht > Ich brauche immer sehr lange, um meine Zugverbindung herauszufinden
   Gar nicht > Ich bekomme nichts mit der App hin
 
-
+- 
 
