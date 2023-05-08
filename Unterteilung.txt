@@ -1,0 +1,81 @@
+--- Umfrage (Google Forms) ---
+
+Basisfragen
+- In welchem Altersbereich liegen sie ?
+ > 18 - 25 ,
+   26 - 35, 
+   36 - 50,
+   Ü50
+
+- Wie oft benutzen Sie die DB App ?
+ > 	Nicht
+	Selten
+	Oft
+	Täglich
+
+
+
+
+Allgemeine Zufriedenheit mit der App
+- Werden sie durch die App ausreichend informiert ?
+ > sehr aktuell ich kann meine Route direkt folgen ,
+   ausreichend aber könnte schneller sein, 
+   schlecht da die Informationen viel zu spät kommen,
+
+- Wie gut finden Sie den Support der App?
+ >Hilfreich
+  nicht sehr Hilfreich
+  noch nie benutzt
+
+- Wie oft benutzen Sie den Bereich Favoriten & Verlauf?
+
+- Wie finden sie den Buchungsprozess von Tickets in der App?
+ >
+
+
+
+Fragen zum Design der App
+
+- Finden Sie die App übersichtilich?
+
+- Finden Sie die Benutzung der App intuitiv? (evtl zusammenfassen?)
+
+
+
+
+
+
+Fragen zur Aktualität
+
+- Wie zufrieden sind sie mit kurzfristigen Änderungen/Meldung wie z.B. bei Gleiswechsel ?
+ > Ich werde rechtzeitig informiert,
+   Ich schaffe es nur sehr knapp das Gleis zu wechseln, 
+   Ich bekomme die Änderungen zu Spät mit, 
+   Ich bekomme gar keine Informationen zum Gleiswechsel
+
+- Werden sie durch die App ausreichend über Ihre Route informiert?
+ > sehr aktuell ich kann meine Route direkt folgen ,
+   ausreichend aber könnte schneller sein, 
+   schlecht da die Informationen viel zu spät kommen,
+
+
+Abschlussfragen
+
+- Sind bei Ihnen während der Nutzung der App Probleme aufgetreten, welche die Nutzung der 
+  App verhindert, oder deutlich erschwert haben?
+
+- Fänden Sie die Möglichkeit auf ein Semesterticket Nachweis in der App praktisch?
+ > Ja, würde ich nutzung
+   Joa, kann man machen
+   Nein, finde ich unnötig
+
+- Haben Sie Anmerkungen oder Verbesserungsvorschläge?
+
+
+
+
+
+
+
+
+Interviews 
