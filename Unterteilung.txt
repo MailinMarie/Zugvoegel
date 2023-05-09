@@ -53,11 +53,18 @@ Fragen zur Aktualität
    Ich bekomme die Änderungen zu Spät mit, 
    Ich bekomme gar keine Informationen zum Gleiswechsel
 
-- Werden sie durch die App ausreichend über Ihre Route informiert?
- > sehr aktuell ich kann meine Route direkt folgen ,
-   ausreichend aber könnte schneller sein, 
-   schlecht da die Informationen viel zu spät kommen,
+- Wie genau bewerten sie die Zeitangaben in der App (wann z.B. die Züge am Bahnsteig eintreffen   
+  sollen) ?
+> sehr genau > ich kann mich auf die Anzeige Zeiten verlassen
+  Befriedigend > mal passen de Zeiten und mal nicht
+  Schlecht > Die Zeiten passen nie zu den betreffenden Ankunftszeiten der Züge
 
+- Welche Erfahrung haben Sie mit den Meldungen (Störungen, Personen auf dem Gleis) der App?
+ >Stimmen
+  Stimmen öfters nicht
+  Stimmen nie
+
+- Wenn Ihre ewünschte Zugverbindung ausfällt, wie zufrieden sind Sie mit den Alternativvorschlägen?
 
 Abschlussfragen
 
